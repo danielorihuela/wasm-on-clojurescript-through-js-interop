@@ -1,0 +1,12 @@
+# Rust
+**/debug/
+**/target/
+**/Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# Clojure
+.lsp
+.clj-kondo
+**/.cpcache
+**/public/out

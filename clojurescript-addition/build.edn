@@ -1,0 +1,5 @@
+{:output-dir "public/out"
+ :asset-path "out"
+ :main addition.core
+ :optimizations :advanced
+ :infer-externs true}
