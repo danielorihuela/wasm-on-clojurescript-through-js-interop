@@ -1,12 +1,12 @@
 # PoC
 
-This repository is a Proof of Concept about the process of calling wasm code generated in Rust from ClojureScript through the javascript interoperation.
+This repository is a proof of concept about the process of calling WASM code generated in Rust from ClojureScript through JavaScript interoperability.
 
 ## Tools
 
-To run this project you will need to install [Rust](https://www.rust-lang.org/tools/install) and [Clojure](https://clojure.org/guides/install_clojure).
+To run this project you need [Rust](https://www.rust-lang.org/tools/install) and [Clojure](https://clojure.org/guides/install_clojure).
 
-We are using Clojure 1.10.2, rustup 1.26.0 (stable channel) and rustc 1.70.0.
+I am using `clojure 1.10.2`, `rustup 1.26.0` (stable channel) and `rustc 1.70.0`.
 
 ## Run the project
 
