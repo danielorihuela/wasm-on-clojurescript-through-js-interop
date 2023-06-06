@@ -41,4 +41,4 @@ If you want to check that error. You have to move `out`, `wasm` and `index.html`
 
 ## shadow cljs
 
-Probably, you are going to build a web site using ClojureScript with a build tool. If you are goint so use [shadow cljs](https://github.com/thheller/shadow-cljs). I higly recommend that you take a look into a [demo using wasm with clojurescript from the shadow cljs creator](https://github.com/thheller/wasm-pack-cljs).
+Probably, you are going to build a web site using ClojureScript with a build tool. If you are going to use [shadow cljs](https://github.com/thheller/shadow-cljs). I highly recommend that you take a look into a [demo using wasm with clojurescript from the shadow cljs creator](https://github.com/thheller/wasm-pack-cljs).
